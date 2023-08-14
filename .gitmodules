@@ -1,0 +1,3 @@
+[submodule "fireworks"]
+	path = fireworks
+	url = https://github.com/MT-CTF/fireworks.git
