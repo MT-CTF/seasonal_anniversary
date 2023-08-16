@@ -1,9 +1,9 @@
 globals = {
-	"fireworks",
+	"fireworks", "ctf_map",
 }
 
 read_globals = {
-	"default", "ctf_teams", "ctf_map", "ctf_modebase",
+	"default", "ctf_teams", "ctf_modebase", "hud_events",
 
 	"HumanReadable",
 
