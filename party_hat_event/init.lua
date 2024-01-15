@@ -1,3 +1,5 @@
+if os.date("%m") ~= "8" or tonumber(os.date("%d")) < 16 then return end
+
 local old_fireworks_on_use = fireworks.on_use
 
 local given = {}
